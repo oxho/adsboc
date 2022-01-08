@@ -19,6 +19,8 @@
     self.view.backgroundColor = [UIColor whiteColor];
     
     //穷哈哈
+    
+    //删掉穷哈哈
 }
 
 
