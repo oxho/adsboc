@@ -1,0 +1,6 @@
+framework module Pods_AdsLoadImageboc {
+  umbrella header "Pods-AdsLoadImageboc-umbrella.h"
+
+  export *
+  module * { export * }
+}

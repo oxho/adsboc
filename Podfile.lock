@@ -1,0 +1,34 @@
+PODS:
+  - Masonry (1.1.0)
+  - MMKV (1.2.11):
+    - MMKVCore (~> 1.2.11)
+  - MMKVCore (1.2.11)
+  - SDAutoLayout (2.1.9)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+
+DEPENDENCIES:
+  - Masonry
+  - MMKV
+  - SDAutoLayout (~> 2.1.3)
+  - SDWebImage (= 4.4.2)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - MMKV
+    - MMKVCore
+    - SDAutoLayout
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MMKV: 217b643c181c3d2f71983206ca1972d0a6e99881
+  MMKVCore: f9e4f56742fdebbd042f7a273e278927f182cee7
+  SDAutoLayout: 6b6f4db0d009dfc46cef14ef710dbb164e86616c
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+
+PODFILE CHECKSUM: 0fc56a41071dd976fa66f6bb47c918011f63ddcd
+
+COCOAPODS: 1.10.1
